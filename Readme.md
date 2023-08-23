@@ -8,10 +8,9 @@ You should include a [minimal reproducible example (MRE)](https://stackoverflow.
 
 **In short:**
 
-1. Include a minimal dataset, necessary to demonstrate the problem (either by copying and pasting it into your script or preferably by using the `dput()` function to generate an R code to recreate it).
-2. Share the minimal runnable code necessary to reproduce the issue, which can be run on the given dataset.
-3. List the packages that are needed to run your code at the top of your script.
-4. Describe your desired output in a clear and concise manner.
+1. Provide a minimal dataset, necessary to demonstrate the problem (either by copying and pasting it into your script or preferably by using the dput() function to generate an R code to recreate it).
+2. Share a minimal runnable code necessary to reproduce the issue, including the list of packages, which can be run on the given dataset.
+3. Describe your desired output in a clear and concise manner.er.
 
 Here is an example:
 
