@@ -51,9 +51,9 @@ In addition to the aforementioned steps, there are a few other things that can i
 
 * Choose a clear and explanatory title for your question. Review [How do I write a good title?](https://meta.stackexchange.com/q/10647)
 * Keep your example, both data and code, minimal while making sure it is reproducing the behavior, errors, etc. that you are seeing at your end.
-* Include comments within your code to explain what is it that you are trying to achieve.
+* Include comments within your code to explain what it is that you are trying to achieve.
 * [Format your question properly](/editing-help).
-* [Use appropriate tags](/help/tagging). Remember to at least read the mouseover on the tags you are using when asking a question.
+* [Use appropriate tags](/help/tagging). Remember to at least read the mouseover tooltip text on the tags you are using when asking a question.
 * If you are using functions that are generating random numbers, use `set.seed()` to ensure reproducibility.
 * If you have issues that are specific to your environment, include the version of R that you are using, the operating system that you are running on, and any other relevant information about your environment. Providing the output of `sessionInfo()` is helpful for these cases.
 
@@ -63,10 +63,10 @@ Moreover, you should **avoid**:
 * Pasting your [code, data, or errors as images](//meta.stackoverflow.com/a/285557).
 * Sharing your code or data through [external links](https://meta.stackoverflow.com/questions/254428/).
 * Asking a question before doing any research. Questions that show no attempt at solving the problem, are already answered here on Stack Overflow, and/or can easily be addressed with a simple Internet search tend to get negative feedback.
-* Combining multiple questions into one post which would make your question too broad.
+* Combining multiple questions into one post which would make your post too broad.
 * Asking questions focused on statistics or data science. While there is some overlap between Stack Overflow and other technical communities, if your question is not about practical programming, you should explore other Stack Exchange communities, read their help pages, and consider posting to them instead of Stack Overflow.
 
-Here are some additional resources that are helpful:
+Here are some additional helpful resources:
 
 - Take [Stack Overflow's tour](https://stackoverflow.com/tour) and read [How to ask a good question](https://stackoverflow.com/help/how-to-ask)
 - Review [How to make a great R reproducible example](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
